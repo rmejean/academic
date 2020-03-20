@@ -21,8 +21,8 @@ cta:
     fr: ["Vous pouvez vous abonner au", "fil RSS", "du blog"]
     en: ["You can suscribe to the", "RSS feed", ""]
   twitter:
-    fr: ["ou suivre", "sur Twitter"]
-    en: ["or follow", "on Twitter"]
+    fr: ["ou me suivre", "sur Twitter :"]
+    en: ["or follow me", "on Twitter:"]
 links:
   fr: "Liens :"
   en: "Links :"
@@ -30,8 +30,8 @@ by:
   fr: "par"
   en: "by"
 legal:
-  fr: ["par", "est placé sous licence"]
-  en: ["by", "is available under the license"]
+  fr: ["par", "est placé sous licence", "Ce site web", "Il est strictement personnel."]
+  en: ["by", "is available under the license", "This website", "It is stricly personnal."]
 feed:
   fr: "flux RSS"
   en: "RSS feed"
@@ -54,7 +54,7 @@ no_versions:
   fr: "La version française de cette page n'existe pas encore :("
   en: "The English version of this page doesn't exist yet :("
 langs_avail:
-  fr: "Langues :"
+  fr: "Languages:"
   en: "Languages:"
 cv:
   fr: "Curriculum Vitae"

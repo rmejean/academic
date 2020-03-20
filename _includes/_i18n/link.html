@@ -1,4 +1,4 @@
-{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign plang = page.lang | default: site.langs[0] | default: "fr" %}
 {% assign nblangs = site.langs | size %}
 {% assign objects = site.pages | where_exp:"p","p.path contains include.path" %}
 

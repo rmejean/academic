@@ -1,0 +1,61 @@
+# General settings
+title: Romain MEJEAN
+title_html: "Romain <b>MEJEAN</b>"
+description:
+  fr: Doctorant en géographie et chargé d'enseignement à l'Université Toulouse 2 Jean Jaurès et au laboratoire GEODE.
+  en: PhD student in geography and Lecturer Assistant at University of Toulouse (France) & GEODE lab.
+baseurl: ""
+url: "https://romainmejean.fr/"
+cc: by-nc
+
+langs: ["fr", "en"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "fr"
+
+# Author
+author: Romain Mejean
+author_display: false
+
+email: romain.mejean@univ-tlse2.fr
+twitter_username: r_mejean
+github_username: rmejean
+researchgate_username: Romain_Mejean
+curriculum:
+  url:
+  
+# Blog
+blogdescription:
+  fr: Géographie, géomatique, modélisation, tutoriels... à venir !
+  en: Geography, geomatics, modelling, tutorials... coming soon !
+
+# Nav menu (none)
+nav_ext_links:
+  - name:
+    url:
+      fr: 
+      en: 
+
+# Piwik
+piwik:
+  url: batcloud.me/piwik
+  site_id: 2
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+markdown: kramdown
+kramdown:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+theme: academic
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock

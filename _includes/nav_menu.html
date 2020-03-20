@@ -1,4 +1,4 @@
-{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign plang = page.lang | default: site.langs[0] | default: "fr" %}
 {% assign nblangs = site.langs | size %}
 <span class="nav-list-title">{{ site.data.academic_i18n.menu[plang] }}</span>
 <ul class="nav-list {{ include.class }}">
