@@ -12,6 +12,8 @@ Doryan Kaced, **Romain Mejean**, Aurélien Richa, Benoit Gaudou, and Mehdi Saqal
 
 ### Conférences internationales sans actes
 <br />
+**Romain Mejean**, Kevin Chapuis, Doryan Kaced, Mehdi Saqalli, Martin Paegelow. 2020. “Building an Agent-Based Model to simulate changes between two land cover maps: an init optimization?” *International Environmental Modelling and Software Society (iEMSs) Conference 2020*, Bruxelles, Belgique.
+
 Mehdi Saqalli, **Romain Mejean**, Clément De Meyer, Juan Durango-Cordero, Arnaud Elger. 2019. “Territoires, ressources, risques et cultures : Recenser la perception des habitants de l’Amazonie Equatorienne par cartographie A Dires d’Acteurs.” *8th HYBAM International Conference Environmental threats & climatic changes in the Amazon*, 02-06/09/2019, Toulouse, France.
 
 ### Conférences nationales sans actes

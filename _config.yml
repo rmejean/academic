@@ -2,11 +2,12 @@
 title: Romain MEJEAN
 title_html: "Romain <b>MEJEAN</b>"
 description:
-  fr: Doctorant en géographie et chargé d'enseignement à l'Université Toulouse 2 Jean Jaurès et au laboratoire GEODE.
+  fr: Doctorant en géographie et ATER à l'Université Toulouse 2 Jean Jaurès et au laboratoire GEODE.
   en: PhD student in geography and Lecturer Assistant at University of Toulouse (France) & GEODE lab.
 baseurl: ""
 url: "https://romainmejean.fr/"
 cc: by-nc
+repo: https://github.com/rmejean/academic
 
 langs: ["fr", "en"]
 defaults:

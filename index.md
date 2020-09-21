@@ -3,7 +3,7 @@ layout: about
 title: Bio 🌍
 invisible: true
 seo:
-  title: Romain Mejean, géographe
+  title: Romain Mejean - Géographe
 
 ---
 
@@ -11,6 +11,6 @@ Géographe, je suis spécialisé en **modélisation et simulation de systèmes c
 
 Plus largement, je m'intéresse aux pratiques de modélisation en géographie, aux modèles à base d'agents, à la géoprospective, à la géographie environnementale et aux changements d'occupation et d'usage des sols.
 
-Je suis actuellement doctorant en géographie et chargé d'enseignement à l'[UT2 Jean Jaurès](https://www.univ-tlse2.fr/) et au [laboratoire GEODE](http://w3.geode.univ-tlse2.fr), à [<span style="color:#cd5ec0">Toulouse</span>](https://fr.wikipedia.org/wiki/Toulouse).
+Je suis actuellement doctorant en géographie et attaché temporaire d'enseignement et de recherche (ATER) à l'[UT2 Jean Jaurès](https://www.univ-tlse2.fr/) et au [laboratoire GEODE](http://w3.geode.univ-tlse2.fr), à [<span style="color:#cd5ec0">Toulouse</span>](https://fr.wikipedia.org/wiki/Toulouse).
 
 [Ma thèse](http://www.theses.fr/s205382) porte sur la modélisation des changements d'occupation et d'usage des sols en Amazonie équatorienne.

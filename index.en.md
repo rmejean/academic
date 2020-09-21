@@ -5,7 +5,7 @@ lang: en
 permalink: /en/
 invisible: true
 seo:
-  title: Romain Mejean, geographer
+  title: Romain Mejean - Geographer
 ---
 
 I am a geographer, I specialize in **modelling and simulation of spatial complex systems**.
